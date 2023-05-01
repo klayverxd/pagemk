@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="{{ './styles.css' }}">
+
 # pagemk teste
 [Download do arquivo](#){: .botao-download}
 
